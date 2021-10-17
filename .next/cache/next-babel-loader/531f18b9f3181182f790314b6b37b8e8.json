@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { default as axios } from \"./axios\";","map":{"version":3,"sources":["/home/oleksii/Documents/Programming/DevelopsTodayTestTask/core/index.ts"],"names":["default"],"mappings":"AAAA,SAASA,OAAO,IAAhB,KAAA,QAAA,SAAA","sourcesContent":["export { default as axios } from \"./axios\";\n"]},"metadata":{},"sourceType":"module"}
